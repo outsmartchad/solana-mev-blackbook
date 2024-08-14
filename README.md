@@ -12,4 +12,4 @@ Our bots automatically streams every new block of solana using geyser grpc and i
 - Access the mev-bot.txt file to view the list of known MEV bot addresses.
 - Use this information to filter out these addresses from your Solana trading bot or applications.
 
-# Up-to-date detailed txt list of mev bot address can be found here
+# Up-to-date detailed txt list of mev bot address can be found [here](https://github.com/outsmartchad/Solana-MEV-Bot-Blackbook/blob/main/mev-bot.txt)
