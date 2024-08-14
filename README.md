@@ -1,5 +1,5 @@
 # Solana-mev-blackbook
-The Solana MEV-Bot Blackbook is a historical list that stores publicly shares known MEV (Miner Extractable Value) bot addresses on the Solana blockchain. This resource aims to empower Solana developers, especially those working on trading bots, to identify and filter out these MEV bots from their applications.
+The Solana MEV-Bot Blackbook is a historical list that stores publicly shares known MEV (Maximal Extractable Value) bot addresses on the Solana blockchain. This resource aims to empower Solana developers, especially those working on trading bots, to identify and filter out these MEV bots from their applications.
 
 ## Purpose
 The Solana blockchain has seen an increasing number of MEV bots that try to exploit the network. These bots can negatively impact the performance and profitability of other trading strategies. By maintaining a public "blackbook" of known MEV bot addresses, we strive to help the Solana development community build more robust and resilient trading applications.
