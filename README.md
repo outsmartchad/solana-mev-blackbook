@@ -8,7 +8,7 @@ The Solana blockchain has seen an increasing number of MEV bots that try to expl
 Our bots automatically streams every new block of solana using geyser grpc and identifies potential MEV bot addresses, and logs them to the mev-bot.txt file. The file is then automatically committed and pushed to this GitHub repository, allowing developers to access the latest information on active MEV bots on Solana.
 
 ## Usage
-- git clone [https://github.com/outsmartchad/Solana-MEV-Bot-Blackbook.git](https://github.com/outsmartchad/solana-mev-blackbook)
+- git clone https://github.com/outsmartchad/solana-mev-blackbook.git
 - Access the mev-bot.txt file to view the list of known MEV bot addresses.
 - Use this information to filter out these addresses from your Solana trading bot or applications.
 
